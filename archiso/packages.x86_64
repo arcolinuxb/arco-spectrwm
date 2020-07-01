@@ -502,7 +502,6 @@ arcolinux-rofi-themes-git
 arcolinux-root-git
 #arcolinux-slim
 #arcolinux-slimlock-themes-git
-arcolinux-spectrwm-git
 arcolinux-system-config-git
 #arcolinuxd-system-config-git
 #arcolinux-systemd-services-git
@@ -522,7 +521,7 @@ arcolinux-zsh-git
 ###########################################################################
 
 #arcolinux-awesome-git
-arcolinux-bspwm-git
+#arcolinux-bspwm-git
 #arcolinux-budgie-git
 #arcolinux-cinnamon-git
 #arcolinux-deepin-git
@@ -540,6 +539,7 @@ arcolinux-bspwm-git
 #arcolinux-plasma-git
 #arcolinux-plasma-nemesis-git
 #arcolinux-qtile-git
+arcolinux-spectrwm-git
 #arcolinux-ukui-git
 arcolinux-xfce-git
 #arcolinux-xmonad-polybar-git
@@ -550,7 +550,7 @@ arcolinux-xfce-git
 ###########################################################################
 
 #arcolinux-config-awesome-git
-arcolinux-config-bspwm-git
+#arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
 #arcolinux-config-cinnamon-git
 #arcolinux-config-deepin-git
@@ -578,7 +578,7 @@ arcolinux-config-spectrwm-git
 ###########################################################################
 
 #arcolinux-awesome-dconf-git
-arcolinux-bspwm-dconf-git
+#arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
 #arcolinux-cinnamon-dconf-git
 #arcolinux-dconf-git
@@ -640,7 +640,7 @@ adobe-source-han-sans-cn-fonts
 ###########################################################################
 
 #arcob-calamares-config-awesome-git
-arcob-calamares-config-bspwm-git
+#arcob-calamares-config-bspwm-git
 #arcob-calamares-config-budgie-git
 #arcob-calamares-config-cinnamon-git
 #arcob-calamares-config-deepin-git
