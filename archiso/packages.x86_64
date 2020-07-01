@@ -801,9 +801,10 @@ xfce4-taskmanager
 polybar
 
 #desktop specific bspwm
-bspwm
+spectrwm
 sxhkd
 xdo
 sutils-git
 xtitle-git
 autorandr
+clipmenu
