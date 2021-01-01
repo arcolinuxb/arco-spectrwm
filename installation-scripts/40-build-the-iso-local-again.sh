@@ -29,7 +29,7 @@ echo
 	desktop="spectrwm"
 	lightdmDesktop="spectrwm"
 
-	arcolinuxVersion='v21.01.6'
+	arcolinuxVersion='v21.01.7'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
